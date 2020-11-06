@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#downstairs-right"
+                 "value":"map.json#downstairs-right"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#downstairs-left"
+                 "value":"map.json#downstairs-left"
                 }],
          "type":"tilelayer",
          "visible":true,
